@@ -740,6 +740,7 @@ input, textarea{
         left: 0;
         height: 100vh;
         background-color: #e2e2e2;
+        opacity: 0.92;
         transform: translateY(-100%);
         transition: all 0.2s ease-in;
     }
